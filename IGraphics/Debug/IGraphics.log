@@ -1,0 +1,17 @@
+﻿Build started 2/13/2016 8:15:18 PM.
+     1>Project "G:\SnakeX\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Snake.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         IGraphics.vcxproj -> G:\SnakeX\Debug\Snake.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Snake.unsuccessfulbuild".
+         Touching "Debug\Snake.lastbuildstate".
+     1>Done Building Project "G:\SnakeX\IGraphics\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79
